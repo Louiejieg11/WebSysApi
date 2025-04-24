@@ -1,17 +1,17 @@
-{
-    "id": 1,
-    "name": "John Doe",
-    "email": "sample@grc.com",
-    "phone": "+1-202-55-0173",
-    "address":{
-        "street":"123 Main St",
-        "city": "Anytown",
-        "state":"CA",
-        "zip": "12345"
+[
+    {
+    "id": "1",
+        "cpu": "Intel Core i7-11700K",
+        "ram": "Corsair Vengeance LPX 16GB DDR4 3200MHz",
+        "storage": "Samsung 970 EVO Plus 1TB NVMe SSD",
+        "gpu": "NVIDIA GeForce GTX 1660"
     },
-    "company": {
-        "name": "Tech Solutions",
-        "position": "Software Engineer",
-        "department": "Development"
+
+    {
+    "id": "2",
+        "cpu": "Intel Core i3",
+        "ram": "G.Skill Trident Z5",
+        "storage": "Samsung 970 EVO, Crucial MX500",
+        "gpu": "NVIDIA GeForce Series RTX 3050"
     }
-}
+]
